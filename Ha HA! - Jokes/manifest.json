@@ -1,0 +1,16 @@
+{
+    "name": "Ha Ha! Jokes",
+    "version": "0.0.1",
+    "description": "A simple extension that shows jokes in two language english and hindi.",
+    "manifest_version": 3,
+    "icons": {
+        "128": "logo.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    }
+  
+}
+
+

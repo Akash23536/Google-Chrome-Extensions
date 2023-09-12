@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Puppet-Jokes English",
+    "version": "0.0.1",
+    "description": "A simple extension that shows jokes in english language with a refresh button.",
+    "icons": {
+        "128": "logo.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    }
+   
+}
+
+
